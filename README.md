@@ -19,7 +19,7 @@ A modern, real-time chat application built with React, Socket.IO, and styled wit
 
 ### Frontend
 
-- React 19
+- React 18
 - Vite
 - Tailwind CSS
 - Framer Motion
